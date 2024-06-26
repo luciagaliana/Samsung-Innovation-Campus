@@ -1,5 +1,5 @@
 # samsungInnovationCampus
-En este repositioros se mostrarán lso ejercicios que he ido haciendo en el Samsung Innovation Campus Curso Programación, Algoritmos y Estructuras de datos en Python para Inteligencia Artificial.
+En este repositorio se presentarán los ejercicios que he completado en el curso de Programación, Algoritmos y Estructuras de Datos en Python para Inteligencia Artificial, ofrecido por el Samsung Innovation Campus.
 
 ## Parte 1: Samsung Innovation Campus – Programación, Algoritmos y estructuras de datos en Python
 
